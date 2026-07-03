@@ -1,0 +1,92 @@
+[
+  {
+    " Roll .NO":"G7",
+    "Student Name":"Sneha",
+    "  DM":60,
+    "ATCD":80,
+    "IAI":85,
+    "DBMS":90,
+    "JAVA":70
+  },
+  {
+    " Roll .NO":"E5",
+    "Student Name":"Varshini",
+    "  DM":90,
+    "ATCD":80,
+    "IAI":70,
+    "DBMS":60,
+    "JAVA":85
+  },
+  {
+    " Roll .NO":"I8",
+    "Student Name":"Shrija",
+    "  DM":85,
+    "ATCD":75,
+    "IAI":80,
+    "DBMS":85,
+    "JAVA":80
+  },
+  {
+    " Roll .NO":"H5",
+    "Student Name":"Anvitha",
+    "  DM":90,
+    "ATCD":70,
+    "IAI":60,
+    "DBMS":85,
+    "JAVA":95
+  },
+  {
+    " Roll .NO":"E9",
+    "Student Name":"Sahasra",
+    "  DM":85,
+    "ATCD":65,
+    "IAI":75,
+    "DBMS":80,
+    "JAVA":90
+  },
+  {
+    " Roll .NO":"E7",
+    "Student Name":"Teja",
+    "  DM":60,
+    "ATCD":70,
+    "IAI":80,
+    "DBMS":95,
+    "JAVA":60
+  },
+  {
+    " Roll .NO":"I7",
+    "Student Name":"Tapasi",
+    "  DM":90,
+    "ATCD":85,
+    "IAI":95,
+    "DBMS":80,
+    "JAVA":95
+  },
+  {
+    " Roll .NO":"J2",
+    "Student Name":"Sai Tejasri",
+    "  DM":75,
+    "ATCD":80,
+    "IAI":85,
+    "DBMS":70,
+    "JAVA":90
+  },
+  {
+    " Roll .NO":"E1",
+    "Student Name":"Sharon",
+    "  DM":90,
+    "ATCD":85,
+    "IAI":65,
+    "DBMS":75,
+    "JAVA":80
+  },
+  {
+    " Roll .NO":"J1",
+    "Student Name":"Sushmitha",
+    "  DM":95,
+    "ATCD":80,
+    "IAI":75,
+    "DBMS":60,
+    "JAVA":90
+  }
+]
